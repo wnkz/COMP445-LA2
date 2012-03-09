@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMP445-LA2-Client", "COMP445-LA2-Client\COMP445-LA2-Client.vcxproj", "{33877C75-7079-4DDA-AA8E-E5FFF140B0CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMP445-LA2-Server", "COMP445-LA2-Server\COMP445-LA2-Server.vcxproj", "{FF2A6245-6D77-4FFB-978E-EA66A5E19EEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMP445-LA2-Router", "COMP445-LA2-Router\COMP445-LA2-Router.vcxproj", "{91AF90F3-96D6-4F50-A650-952A3272C0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33877C75-7079-4DDA-AA8E-E5FFF140B0CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33877C75-7079-4DDA-AA8E-E5FFF140B0CA}.Debug|Win32.Build.0 = Debug|Win32
+		{33877C75-7079-4DDA-AA8E-E5FFF140B0CA}.Release|Win32.ActiveCfg = Release|Win32
+		{33877C75-7079-4DDA-AA8E-E5FFF140B0CA}.Release|Win32.Build.0 = Release|Win32
+		{FF2A6245-6D77-4FFB-978E-EA66A5E19EEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF2A6245-6D77-4FFB-978E-EA66A5E19EEA}.Debug|Win32.Build.0 = Debug|Win32
+		{FF2A6245-6D77-4FFB-978E-EA66A5E19EEA}.Release|Win32.ActiveCfg = Release|Win32
+		{FF2A6245-6D77-4FFB-978E-EA66A5E19EEA}.Release|Win32.Build.0 = Release|Win32
+		{91AF90F3-96D6-4F50-A650-952A3272C0C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91AF90F3-96D6-4F50-A650-952A3272C0C7}.Debug|Win32.Build.0 = Debug|Win32
+		{91AF90F3-96D6-4F50-A650-952A3272C0C7}.Release|Win32.ActiveCfg = Release|Win32
+		{91AF90F3-96D6-4F50-A650-952A3272C0C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

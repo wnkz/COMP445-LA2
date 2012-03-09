@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+COMP445-LA2-Server/Release
+COMP445-LA2-Server/Debug
+COMP445-LA2-Client/Release
+COMP445-LA2-Client/Debug
+COMP445-LA2-Router/Release
+COMP445-LA2-Router/Debug
+Debug
+Release
+*.user
+*.suo
+log.txt
+server_log.txt
+client_log.txt
